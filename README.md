@@ -1,6 +1,6 @@
 ## NUVERTOS COMPOUND STORE
 ## 📚 Description
-You were asked multiple times for these details by your fellow mates so you decided to build a web app for this so that people can directly look into the compounds from webapp. 
+You were asked multiple times for compound details by your fellow mates so you decided to build a web app for this so that people can directly look into the compounds from webapp. 
 Also enable edit of details in case someone wants to change the information.
 
 ## 👨‍💻 Feature 1
