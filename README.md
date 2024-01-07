@@ -23,7 +23,7 @@ Also enable edit of details in case someone wants to change the information.
 
 ##
 ## 👨‍💻 Feature 3
-:white_check_mark: **Compound Details Page** : (Use Routing) On click of each car,  the route changes to a page to display the relevant compound details:
+:white_check_mark: **Compound Details Page** : (Use Routing) On click of each card,  the route changes to a page to display the relevant compound details:
  - Compound Name
  - Compound Image
  - Description
@@ -58,6 +58,6 @@ Also enable edit of details in case someone wants to change the information.
 
 
 ## 👨‍💻 Feature 6
-:white_check_mark: **404 NOT FOUND PAGE** : Any invalid requests are royted to 404
+:white_check_mark: **404 NOT FOUND PAGE** : Any invalid requests are routed to 404
 ##
 ![image](https://github.com/ggaryaman12/NuvertOS-Task/assets/83755815/bc0d50a6-9757-437b-b79d-4341a3b98805)
